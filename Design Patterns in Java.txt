@@ -1,0 +1,42 @@
+Design patterns are general reusable solutions to common problems that occur during software development.
+They represent solutions to problems that have been encountered and solved by experienced developers over time.
+
+
+There are three main categories of design patterns:
+
+1. Creational Patterns: These patterns deal with object creation mechanisms, trying to create objects in a manner
+ suitable to the situation. They help to create objects in a way that is suitable to the situation.
+
+2. Structural Patterns: These patterns deal with object composition or the structure of classes. They help to 
+ensure that if one part of a system changes, the entire system doesn't need to do so.
+
+3. Behavioral Patterns: These patterns are concerned with the interaction and responsibility of objects. They 
+help to define how objects interact with each other to achieve flexibility in the system.
+
+Each of these categories includes several design patterns. Some of the most common design patterns include:
+
+1.Creational Patterns:
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
+
+2.Structural Patterns:
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Proxy
+
+3.Behavioral Patterns:
+- Chain of Responsibility
+- Command
+- Iterator
+- Mediator
+- Observer
+- Strategy
+- Template Method
+- Visitor
+
